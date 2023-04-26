@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="First-Month-Android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hw2_alexei-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw5_alexei-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw1_alexei-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw6_alexei-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw3_alexei-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw8_alexei-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw7_alexei-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hw4_alexei-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
